@@ -4,3 +4,5 @@
 #### test4
 ##### test5
 ###### test6
+
+![Image of Samurai Cheems](https://github.com/adithyapaib/cheems/blob/master/samuraicheems.png)
